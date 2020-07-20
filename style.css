@@ -31,6 +31,7 @@ h2, h4 {
 li {
     font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
     margin-bottom: 10px;
+    font-size: large;
 }
 
 #dp {
