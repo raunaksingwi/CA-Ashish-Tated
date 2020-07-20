@@ -3,12 +3,12 @@
 html {
     position: relative;
     min-height: 100%;
+    margin-top: 0;
 }
 body {
     height: 100%;
+    margin:0;
     /* Margin bottom by footer height */
-    margin-bottom: 10px;
-    padding-top: 65px; 
 }
 
 .social-media-links > a {
@@ -48,4 +48,9 @@ body > .container {
 
 code {
     font-size: 80%;
+}
+
+nav{
+    margin:0;
+    padding: 0;
 }
