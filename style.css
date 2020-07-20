@@ -40,6 +40,13 @@ li {
     margin-bottom: 15px;
 }
 
+#wrkExp {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:  250px;
+    height: 150px;
+}
+
 body > .container {
     padding: 60px 15px 0;
 }
