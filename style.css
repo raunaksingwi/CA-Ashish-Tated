@@ -7,7 +7,7 @@ html {
 }
 body {
     height: 100%;
-    margin:0;
+    margin:50px;
     /* Margin bottom by footer height */
 }
 
@@ -47,10 +47,10 @@ body > .container {
 }
 
 code {
-    font-size: 80%;
+    font-size: 100%;
 }
 
-nav{
-    margin:0;
-    padding: 0;
-}
+.navbar {
+    position: fixed; /* Set the navbar to fixed position */
+    width: 100%; /* Full width */
+  }
